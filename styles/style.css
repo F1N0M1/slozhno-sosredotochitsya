@@ -157,6 +157,7 @@
 }
 
 .section__title {
+  color: var(--button-color);
   font-size: var(--font-size-normal);
   font-weight: var(--font-weight-large);
   line-height: 23.4px;
@@ -229,6 +230,7 @@
 }
 
 .gallery-title {
+  color: var(--text-color);
   grid-column-start: 1;
   grid-column-end: 4;
 }
