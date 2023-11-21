@@ -351,6 +351,10 @@
     padding: 0 0 80px 0;
   }
 
+  .articles {
+    margin: 0;
+  }
+
   .section-row .section__title {
     grid-template-columns: repeat(4, 1fr);
   }
@@ -419,6 +423,10 @@
 
   .section__title {
     padding: 0 0 20px;
+  }
+
+  .articles {
+    margin: 0;
   }
 
   .articles-list {
